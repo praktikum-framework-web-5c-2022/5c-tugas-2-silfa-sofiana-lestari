@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.halaman_utama{
+    height: 520px;
+    width: 100%;
+    background-color: rgb(114, 114, 114);
+}
+
+.list-group{
+    margin-top: 50px;
+}
+
+.footer{
+    height: 30px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+h5{
+    font-size: 15px;
+}
